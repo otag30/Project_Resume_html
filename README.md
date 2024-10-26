@@ -1,6 +1,7 @@
 # Project_Resume_html
 
 ![alt text](imageReadme.png)
+
 This project was done independently without the use of a tutorial nor chatGPT, used only a specification to create a sample resume using only html to reflect the learning of:
 
 `📝 heading elements`;
